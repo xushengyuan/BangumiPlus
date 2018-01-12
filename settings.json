@@ -2,15 +2,8 @@
     "bangumis":[
         {
             "_id":"59d0cb52fb34aac154710b71",
-            "name":{
-                "zh_cn": "",
-                "zh_tw": "",
-                "ja": "",
-                "en": ""
-            },
-            "team":[
-                {"_id":"581b44bfee98e9ca20730e9a","tag_id":"581be821ee98e9ca20730eae","name": "LoliHouse"}
-        ]}
+            "tags":["","",""]
+        }
     ],
     "ui_settings":{
         "language":"zh_cn"

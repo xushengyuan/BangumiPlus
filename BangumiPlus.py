@@ -16,7 +16,7 @@ def GetTagName(id):
     Request=request.Request(url=RequestUrl,data=IdData.encode('utf-8'),headers=Headers)
     ResponseData=urllib.request.urlopen(Request).read().decode('utf-8')
     ResponseJson=json.load(ResponseData)
-    return 
+    TagNames=[y['locale'][SettingsJson['ui_settings']['language']] for x in id:for i in ResponseJson:if x==i['_id']:y=i]
 def DownloadBanguni(id):
     
 def GetItemNOTInLibraries(id):
