@@ -2,14 +2,14 @@
     "bangumis":[
         {
             "_id":"59d0cb52fb34aac154710b71",
-            "tags":["","",""]
+            "tags":[]
         }
     ],
     "ui_settings":{
         "language":"zh_cn"
     },
     "download_settings":{
-        "temp_dir":"d:\\BangumiPlusTemp\\"
+        "aria2_server":"http://192.168.1.110:6800/jsonrpc"
     },
     "libraries_settings":{
         "libraries_json":".\\libraries.json",
