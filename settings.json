@@ -44,7 +44,6 @@
         "aria2_server":"http://192.168.1.110:6800/jsonrpc"
     },
     "libraries_settings":{
-        "libraries_json":".\\libraries.json",
-        "libraries":"d:\\BangumiPlusLibraries\\"
+        "libraries_json":".\\libraries.json"
     }
 }
