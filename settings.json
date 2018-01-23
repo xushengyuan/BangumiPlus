@@ -35,13 +35,38 @@
         {
             "bangumi":"5a4313f317d48cbd4a9625cc",
             "tags":["581be821ee98e9ca20730eae","548ee2ce4ab7379536f56358"]
+        },
+        {
+            "bangumi":"5a4313fc17d48cbd4a9625e0",
+            "tags":["548ee2ce4ab7379536f56358","54992d1cc8b118cf40b274b3"]
+        },
+        {
+            "bangumi":"5a43140617d48cbd4a9625fa",
+            "tags":["548ee2ce4ab7379536f56358","559d1fcdb85ffe4359622f5f"]
+        },
+        {
+            "bangumi":"5a4313f917d48cbd4a9625da",
+            "tags":["548ee2ce4ab7379536f56358","581be821ee98e9ca20730eae"]
+        },
+        {
+            "bangumi":"5a4313fa17d48cbd4a9625dc",
+            "tags":["548ee2ce4ab7379536f56358","575446452165b9ba0c485d13","548ee0ea4ab7379536f56354"]
+        },
+        {
+            "bangumi":"5a43141817d48cbd4a962620",
+            "tags":["548ee2ce4ab7379536f56358","575446452165b9ba0c485d13","548ee0ea4ab7379536f56354"]
+        },
+        {
+            "bangumi":"5a43140c17d48cbd4a962608",
+            "tags":["54992d1cc8b118cf40b274b3"]
         }
     ],
     "ui_settings":{
         "language":"zh_cn"
     },
     "download_settings":{
-        "aria2_server":"http://192.168.1.110:6800/jsonrpc"
+        "aria2_server":"http://192.168.1.110:6800/jsonrpc",
+        "download_dir":"/media/linaro/media/BangumiPlusLibraries"
     },
     "libraries_settings":{
         "libraries_json":".\\libraries.json"
